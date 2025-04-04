@@ -3,7 +3,7 @@ package layeredPane;
 import javax.swing.*;
 import java.awt.*;
 
-public class Layout {
+public class Main {
     public static void main(String[] args) {
         JLabel label1 = new JLabel();
         label1.setOpaque(true);

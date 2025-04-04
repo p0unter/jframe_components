@@ -4,7 +4,7 @@ import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
 
-public class Labels {
+public class Main {
     public static void main(String[] args) {
         ImageIcon imageIcon = new ImageIcon("src/labels/ataturk.png");
 

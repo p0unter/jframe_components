@@ -1,11 +1,9 @@
 package panels;
 
-import labels.Labels;
-
 import javax.swing.*;
 import java.awt.*;
 
-public class Panels {
+public class Main {
     public static void main(String[] args) {
         ImageIcon icon = new ImageIcon("src/panels/ok_icon.png");
         Image image = icon.getImage();
